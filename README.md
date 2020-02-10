@@ -24,3 +24,8 @@ I've been testing out this solution for a few months now and it's been going ama
 Hopefully this will help save someone from wasting as many hours I have trying to solve this problem!
 
 Brian Hamachek (brian@brianhama.com)
+
+## Links
+https://bgp.he.net  
+https://bgp.potaroo.net/cidr/autnums.html  
+
