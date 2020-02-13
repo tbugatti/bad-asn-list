@@ -1,0 +1,399 @@
+{
+    "locations": [
+        {
+            "name": "se1",
+            "city": "Stockholm",
+            "country": "Sweden",
+            "iso": "SE",
+            "openvpn-ca": "https://www.azirevpn.com/openvpn/AzireVPN-se-ca.crt",
+            "openvpn-tls-key": "https://www.azirevpn.com/openvpn/AzireVPN-se-ta.key",
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/se1",
+                "openvpn": [
+                    {
+                        "name": "Public IP / UDP / 1194",
+                        "hostname": "se.ovpn-ext.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "Public IP / UDP / 443",
+                        "hostname": "se.ovpn-ext.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 1194",
+                        "hostname": "se.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 443",
+                        "hostname": "se.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 1194",
+                        "hostname": "se.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 443",
+                        "hostname": "se.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "uk1",
+            "city": "London",
+            "country": "United Kingdom",
+            "iso": "GB",
+            "openvpn-ca": "https://www.azirevpn.com/openvpn/AzireVPN-gb-ca.crt",
+            "openvpn-tls-key": "https://www.azirevpn.com/openvpn/AzireVPN-gb-ta.key",
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/uk1",
+                "openvpn": [
+                    {
+                        "name": "Public IP / UDP / 1194",
+                        "hostname": "gb.ovpn-ext.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "Public IP / UDP / 443",
+                        "hostname": "gb.ovpn-ext.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 1194",
+                        "hostname": "gb.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 443",
+                        "hostname": "gb.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 1194",
+                        "hostname": "gb.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 443",
+                        "hostname": "gb.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "es1",
+            "city": "Malaga",
+            "country": "Spain",
+            "iso": "ES",
+            "openvpn-ca": "https://www.azirevpn.com/openvpn/AzireVPN-es-ca.crt",
+            "openvpn-tls-key": "https://www.azirevpn.com/openvpn/AzireVPN-es-ta.key",
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/es1",
+                "openvpn": [
+                    {
+                        "name": "Public IP / UDP / 1194",
+                        "hostname": "es.ovpn-ext.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "Public IP / UDP / 443",
+                        "hostname": "es.ovpn-ext.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 1194",
+                        "hostname": "es.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 443",
+                        "hostname": "es.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 1194",
+                        "hostname": "es.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 443",
+                        "hostname": "es.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "us1",
+            "city": "Miami",
+            "country": "United States",
+            "iso": "US",
+            "openvpn-ca": "https://www.azirevpn.com/openvpn/AzireVPN-us-ca.crt",
+            "openvpn-tls-key": "https://www.azirevpn.com/openvpn/AzireVPN-us-ta.key",
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/us1",
+                "openvpn": [
+                    {
+                        "name": "Public IP / UDP / 1194",
+                        "hostname": "us.ovpn-ext.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "Public IP / UDP / 443",
+                        "hostname": "us.ovpn-ext.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 1194",
+                        "hostname": "us.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 443",
+                        "hostname": "us.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 1194",
+                        "hostname": "us.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 443",
+                        "hostname": "us.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "ca1",
+            "city": "Toronto",
+            "country": "Canada",
+            "iso": "CA",
+            "openvpn-ca": "https://www.azirevpn.com/openvpn/AzireVPN-ca-ca.crt",
+            "openvpn-tls-key": "https://www.azirevpn.com/openvpn/AzireVPN-ca-ta.key",
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/ca1",
+                "openvpn": [
+                    {
+                        "name": "Public IP / UDP / 1194",
+                        "hostname": "ca.ovpn-ext.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "Public IP / UDP / 443",
+                        "hostname": "ca.ovpn-ext.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 1194",
+                        "hostname": "ca.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 443",
+                        "hostname": "ca.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 1194",
+                        "hostname": "ca.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 443",
+                        "hostname": "ca.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "no1",
+            "city": "Oslo",
+            "country": "Norway",
+            "iso": "no",
+            "openvpn-ca": "https://www.azirevpn.com/openvpn/AzireVPN-no-ca.crt",
+            "openvpn-tls-key": "https://www.azirevpn.com/openvpn/AzireVPN-no-ta.key",
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/no1",
+                "openvpn": [
+                    {
+                        "name": "NAT / UDP / 1194",
+                        "hostname": "no.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 443",
+                        "hostname": "no.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 1194",
+                        "hostname": "no.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 443",
+                        "hostname": "no.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "nl1",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "iso": "nl",
+            "openvpn-ca": "https://www.azirevpn.com/openvpn/AzireVPN-nl-ca.crt",
+            "openvpn-tls-key": "https://www.azirevpn.com/openvpn/AzireVPN-nl-ta.key",
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/nl1",
+                "openvpn": [
+                    {
+                        "name": "Public IP / UDP / 1194",
+                        "hostname": "nl.ovpn-ext.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "Public IP / UDP / 443",
+                        "hostname": "nl.ovpn-ext.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 1194",
+                        "hostname": "nl.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / UDP / 443",
+                        "hostname": "nl.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "udp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 1194",
+                        "hostname": "nl.ovpn.azirevpn.net",
+                        "port": 1194,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                    },
+                    {
+                        "name": "NAT / TCP / 443",
+                        "hostname": "nl.ovpn.azirevpn.net",
+                        "port": 443,
+                        "protocol": "tcp",
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "th1",
+            "city": "Phuket",
+            "country": "Thailand",
+            "iso": "th",
+            "openvpn-ca": null,
+            "openvpn-tls-key": null,
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/th1",
+                "openvpn": null
+            }
+        },
+        {
+            "name": "se2",
+            "city": "Gothenburg",
+            "country": "Sweden",
+            "iso": "se",
+            "openvpn-ca": null,
+            "openvpn-tls-key": null,
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/se2",
+                "openvpn": null
+            }
+        }
+    ]
+}
