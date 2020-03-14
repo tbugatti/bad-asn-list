@@ -29,6 +29,7 @@ Brian Hamachek (brian@brianhama.com)
 https://bgp.he.net  
 https://bgp.he.net/ip/1.1.1.1#_rbl  
 https://www.iplocation.net  
+https://asn.ipinfo.app  
 https://bgp.potaroo.net/cidr/autnums.html  
 https://search.arin.net/  
 https://wq.apnic.net/static/search.html  
