@@ -34,3 +34,4 @@ https://bgp.potaroo.net/cidr/autnums.html
 https://search.arin.net/  
 https://wq.apnic.net/static/search.html  
 https://apps.db.ripe.net/db-web-ui/query?searchtext=  
+https://www.enjen.net/asn-blocklist/index.php?asn=9009&type=json&api=1  
