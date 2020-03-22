@@ -28,10 +28,17 @@ Brian Hamachek (brian@brianhama.com)
 ## Links
 https://bgp.he.net  
 https://bgp.he.net/ip/1.1.1.1#_rbl  
+https://www.bigdatacloud.com/  
+https://www.bgpview.io  
 https://www.iplocation.net  
 https://asn.ipinfo.app  
 https://bgp.potaroo.net/cidr/autnums.html  
-https://search.arin.net/  
-https://wq.apnic.net/static/search.html  
-https://apps.db.ripe.net/db-web-ui/query?searchtext=  
 https://www.enjen.net/asn-blocklist/index.php?asn=9009&type=json&api=1  
+
+### Regional Internet Registries (RIRs)
+[AFRINIC](https://afrinic.net) for Africa Region  
+[APNIC](https://www.apnic.net) for Asia/Pacific Region  
+[ARIN](https://www.arin.net) for Canada, USA, and some Caribbean Islands  
+[LACNIC](https://www.lacnic.net) for Latin America and some Caribbean Islands  
+[RIPE NCC](https://www.ripe.net) for Europe, the Middle East, and Central Asia  
+[JPNIC](https://www.nic.ad.jp) for Japan  
