@@ -15,42 +15,42 @@
                         "hostname": "se.ovpn-ext.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=0&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "Public IP / UDP / 443",
                         "hostname": "se.ovpn-ext.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=0&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 1194",
                         "hostname": "se.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 443",
                         "hostname": "se.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 1194",
                         "hostname": "se.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=others&port=1194&protocol=tcp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 443",
                         "hostname": "se.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=se1&nat=1&os=others&port=443&protocol=tcp&tls=gcm&keys=0"
                     }
                 ]
             }
@@ -70,42 +70,42 @@
                         "hostname": "gb.ovpn-ext.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=0&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "Public IP / UDP / 443",
                         "hostname": "gb.ovpn-ext.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=0&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 1194",
                         "hostname": "gb.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 443",
                         "hostname": "gb.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 1194",
                         "hostname": "gb.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=others&port=1194&protocol=tcp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 443",
                         "hostname": "gb.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=uk1&nat=1&os=others&port=443&protocol=tcp&tls=gcm&keys=0"
                     }
                 ]
             }
@@ -125,42 +125,42 @@
                         "hostname": "es.ovpn-ext.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=0&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "Public IP / UDP / 443",
                         "hostname": "es.ovpn-ext.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=0&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 1194",
                         "hostname": "es.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 443",
                         "hostname": "es.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 1194",
                         "hostname": "es.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=others&port=1194&protocol=tcp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 443",
                         "hostname": "es.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=es1&nat=1&os=others&port=443&protocol=tcp&tls=gcm&keys=0"
                     }
                 ]
             }
@@ -180,42 +180,42 @@
                         "hostname": "us.ovpn-ext.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=0&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "Public IP / UDP / 443",
                         "hostname": "us.ovpn-ext.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=0&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 1194",
                         "hostname": "us.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 443",
                         "hostname": "us.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 1194",
                         "hostname": "us.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=others&port=1194&protocol=tcp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 443",
                         "hostname": "us.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=us1&nat=1&os=others&port=443&protocol=tcp&tls=gcm&keys=0"
                     }
                 ]
             }
@@ -235,42 +235,42 @@
                         "hostname": "ca.ovpn-ext.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=0&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "Public IP / UDP / 443",
                         "hostname": "ca.ovpn-ext.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=0&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 1194",
                         "hostname": "ca.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 443",
                         "hostname": "ca.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 1194",
                         "hostname": "ca.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=others&port=1194&protocol=tcp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 443",
                         "hostname": "ca.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=ca1&nat=1&os=others&port=443&protocol=tcp&tls=gcm&keys=0"
                     }
                 ]
             }
@@ -290,28 +290,28 @@
                         "hostname": "no.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 443",
                         "hostname": "no.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 1194",
                         "hostname": "no.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=others&port=1194&protocol=tcp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 443",
                         "hostname": "no.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=no1&nat=1&os=others&port=443&protocol=tcp&tls=gcm&keys=0"
                     }
                 ]
             }
@@ -331,42 +331,42 @@
                         "hostname": "nl.ovpn-ext.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=0&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=0&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "Public IP / UDP / 443",
                         "hostname": "nl.ovpn-ext.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=0&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=0&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 1194",
                         "hostname": "nl.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=windows&port=1194&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=others&port=1194&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / UDP / 443",
                         "hostname": "nl.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "udp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=windows&port=443&protocol=udp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=others&port=443&protocol=udp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 1194",
                         "hostname": "nl.ovpn.azirevpn.net",
                         "port": 1194,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=windows&port=1194&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=others&port=1194&protocol=tcp&tls=gcm&keys=0"
                     },
                     {
                         "name": "NAT / TCP / 443",
                         "hostname": "nl.ovpn.azirevpn.net",
                         "port": 443,
                         "protocol": "tcp",
-                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=windows&port=443&protocol=tcp&tls=gcm&keys=0"
+                        "url": "https://www.azirevpn.com/cfg/openvpn/generate?country=nl1&nat=1&os=others&port=443&protocol=tcp&tls=gcm&keys=0"
                     }
                 ]
             }
@@ -392,6 +392,18 @@
             "openvpn-tls-key": null,
             "endpoints": {
                 "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/se2",
+                "openvpn": null
+            }
+        },
+        {
+            "name": "dk1",
+            "city": "Copenhagen",
+            "country": "Denmark",
+            "iso": "dk",
+            "openvpn-ca": null,
+            "openvpn-tls-key": null,
+            "endpoints": {
+                "wireguard": "https://api.azirevpn.com/v1/wireguard/connect/dk1",
                 "openvpn": null
             }
         }
